@@ -43,6 +43,7 @@ namespace Task_44_Train
                         isWork = false;
                         break;
 
+
                     default:
                         Console.WriteLine("\nНеккоректный ввод\n");
                         break;
